@@ -1,0 +1,98 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.like-text {
+  color: #14b8a6;
+}
+.name-letter {
+  padding-left: 13px;
+  padding-top: 5px;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #dee0e3;
+  border-radius: 25px;
+  width: 40px;
+  height: 40px;
+}
+.name {
+  padding-left: 13px;
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 26px;
+}
+.date-time {
+  color: #94a3b8;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  padding-left: 15px;
+  margin-top: 32px;
+}
+.like-symbol-text {
+  display: flex;
+}
+.comment {
+  color: #64748b;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  padding-left: 10px;
+}
+.like-delete {
+  display: flex;
+  justify-content: space-between;
+}
+.symbol-button {
+  border: none;
+  background-color: transparent;
+}
+.like-symbol {
+  height: 26px;
+  width: 26px;
+}
+.delete-button {
+  border: none;
+  background-color: transparent;
+}
+.delete-icon {
+  height: 24px;
+  width: 24px;
+}
+.name-time-content {
+  display: flex;
+  flex-direction: column;
+}
+.letter-name-content {
+  display: flex;
+}
+.line {
+  border: 1px solid #cbd2d9;
+}
